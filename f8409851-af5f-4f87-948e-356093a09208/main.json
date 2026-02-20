@@ -1,1 +1,1 @@
-{"allocations": {"SPY": 15.0, "QQQM": 15.0, "IWM": 10.0, "EEM": 10.0, "VT": 8.0, "ZROZ": 8.0, "UUP": 7.0, "ROBO": 6.0, "BLOK": 5.0, "NLR": 4.0, "QTUM": 4.0, "FYLD": 4.0, "JAVA": 4.0}, "frequency": 7, "name": "", "period": "days"}
+{"allocations": {"SPY": 20.0, "QQQM": 18.0, "IWM": 15.0, "EEM": 12.0, "UUP": 10.0, "ZROZ": 10.0, "VT": 8.0, "ROBO": 3.0, "BLOK": 2.5, "NLR": 1.5}, "frequency": 7, "name": "", "period": "days"}
